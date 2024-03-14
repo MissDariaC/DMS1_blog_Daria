@@ -1,5 +1,5 @@
 ---
-title: This is my first DMS 1 blog post!
+title: This is my first DMS 1 blog post Scavenger Hunt!
 published_at: 2024-05-03 
 snippet: This is an excerpt of my first blog post.
 disable_html_sanitization: true
